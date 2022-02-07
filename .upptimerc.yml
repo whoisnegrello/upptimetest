@@ -7,8 +7,10 @@ sites:
     url: https://www.google.com
   - name: Wikipedia
     url: https://en.wikipedia.org
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Lunestudio
+    url: https://lunestudio.com.ar
+  - name: Lunes Negro
+    url: https://lunesnegro.com.ar
     
 assignees:
   - whoisnegrello
