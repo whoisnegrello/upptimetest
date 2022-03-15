@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 164,
-    "timeDay": 62,
-    "timeWeek": 87,
-    "timeMonth": 168,
-    "timeYear": 164,
+    "time": 162,
+    "timeDay": 77,
+    "timeWeek": 80,
+    "timeMonth": 166,
+    "timeYear": 162,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
-    "time": 169,
-    "timeDay": 128,
-    "timeWeek": 116,
-    "timeMonth": 170,
-    "timeYear": 169,
+    "time": 168,
+    "timeDay": 144,
+    "timeWeek": 119,
+    "timeMonth": 168,
+    "timeYear": 168,
     "dailyMinutesDown": {
       "2022-03-05": 19,
       "2022-03-01": 27
@@ -44,19 +44,17 @@
     "icon": "https://favicons.githubusercontent.com/lunestudio.com.ar",
     "slug": "lunestudio",
     "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1602,
-    "timeDay": 952,
-    "timeWeek": 1432,
-    "timeMonth": 1537,
-    "timeYear": 1602,
-    "dailyMinutesDown": {
-      "2022-03-14": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1598,
+    "timeDay": 945,
+    "timeWeek": 1446,
+    "timeMonth": 1539,
+    "timeYear": 1598,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lunes Negro",
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 785,
-    "timeDay": 573,
-    "timeWeek": 659,
-    "timeMonth": 773,
-    "timeYear": 785,
+    "time": 780,
+    "timeDay": 601,
+    "timeWeek": 634,
+    "timeMonth": 767,
+    "timeYear": 780,
     "dailyMinutesDown": {}
   }
 ]
