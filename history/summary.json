@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 138,
-    "timeDay": 80,
-    "timeWeek": 92,
-    "timeMonth": 99,
-    "timeYear": 138,
+    "time": 137,
+    "timeDay": 90,
+    "timeWeek": 95,
+    "timeMonth": 100,
+    "timeYear": 137,
     "dailyMinutesDown": {}
   },
   {
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 152,
-    "timeDay": 120,
-    "timeWeek": 110,
-    "timeMonth": 127,
+    "timeDay": 116,
+    "timeWeek": 116,
+    "timeMonth": 128,
     "timeYear": 152,
     "dailyMinutesDown": {
       "2022-03-05": 19,
@@ -49,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.97%",
-    "time": 1725,
-    "timeDay": 1435,
-    "timeWeek": 1613,
-    "timeMonth": 1783,
-    "timeYear": 1725,
+    "time": 1719,
+    "timeDay": 1312,
+    "timeWeek": 1606,
+    "timeMonth": 1779,
+    "timeYear": 1719,
     "dailyMinutesDown": {
       "2022-03-31": 25
     }
@@ -64,18 +64,16 @@
     "icon": "https://favicons.githubusercontent.com/lunesnegro.com.ar",
     "slug": "lunes-negro",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 750,
-    "timeDay": 800,
-    "timeWeek": 719,
-    "timeMonth": 700,
-    "timeYear": 750,
-    "dailyMinutesDown": {
-      "2022-04-12": 14
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 749,
+    "timeDay": 773,
+    "timeWeek": 730,
+    "timeMonth": 702,
+    "timeYear": 749,
+    "dailyMinutesDown": {}
   }
 ]
