@@ -63,9 +63,9 @@
     "url": "https://lunesnegro.com.ar",
     "icon": "https://favicons.githubusercontent.com/lunesnegro.com.ar",
     "slug": "lunes-negro",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
@@ -75,6 +75,7 @@
     "timeMonth": 727,
     "timeYear": 752,
     "dailyMinutesDown": {
+      "2022-04-16": 0,
       "2022-04-13": 31
     }
   }
