@@ -22,18 +22,20 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 203,
-    "timeDay": 174,
-    "timeWeek": 230,
-    "timeMonth": 208,
-    "timeYear": 212,
-    "dailyMinutesDown": {}
+    "time": 202,
+    "timeDay": 142,
+    "timeWeek": 215,
+    "timeMonth": 205,
+    "timeYear": 211,
+    "dailyMinutesDown": {
+      "2023-04-10": 0
+    }
   },
   {
     "name": "Lunestudio",
@@ -70,7 +72,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunesnegro.com.ar.ico",
     "slug": "lunes-negro",
     "status": "up",
-    "uptime": "94.24%",
+    "uptime": "94.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.80%",
