@@ -24,18 +24,16 @@
     "slug": "wikipedia",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.26%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 202,
     "timeDay": 126,
     "timeWeek": 202,
     "timeMonth": 202,
     "timeYear": 211,
-    "dailyMinutesDown": {
-      "2023-04-10": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Lunestudio",
@@ -71,9 +69,9 @@
     "url": "https://lunesnegro.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lunesnegro.com.ar.ico",
     "slug": "lunes-negro",
-    "status": "up",
+    "status": "down",
     "uptime": "94.25%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.80%",
     "uptimeYear": "93.27%",
@@ -83,6 +81,7 @@
     "timeMonth": 683,
     "timeYear": 876,
     "dailyMinutesDown": {
+      "2023-04-10": 0,
       "2023-04-04": 46,
       "2023-04-02": 26,
       "2023-03-24": 18,
