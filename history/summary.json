@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 75,
-    "timeWeek": 83,
-    "timeMonth": 81,
+    "timeDay": 85,
+    "timeWeek": 82,
+    "timeMonth": 80,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 208,
-    "timeDay": 159,
+    "timeDay": 109,
     "timeWeek": 348,
     "timeMonth": 263,
-    "timeYear": 219,
+    "timeYear": 218,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.92%",
-    "time": 1858,
-    "timeDay": 2193,
-    "timeWeek": 1795,
-    "timeMonth": 1995,
-    "timeYear": 1894,
+    "time": 1859,
+    "timeDay": 2607,
+    "timeWeek": 1817,
+    "timeMonth": 1998,
+    "timeYear": 1897,
     "dailyMinutesDown": {
       "2023-06-21": 18,
       "2023-06-14": 22,
@@ -72,16 +72,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunesnegro.com.ar.ico",
     "slug": "lunes-negro",
     "status": "up",
-    "uptime": "95.07%",
+    "uptime": "95.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "93.29%",
-    "time": 845,
-    "timeDay": 660,
-    "timeWeek": 780,
-    "timeMonth": 749,
-    "timeYear": 869,
+    "time": 847,
+    "timeDay": 1776,
+    "timeWeek": 884,
+    "timeMonth": 772,
+    "timeYear": 871,
     "dailyMinutesDown": {
       "2023-06-08": 174,
       "2023-05-11": 19,
@@ -143,8 +143,7 @@
       "2022-07-19": 36,
       "2022-07-12": 44,
       "2022-07-10": 25,
-      "2022-07-05": 68,
-      "2022-06-24": 123
+      "2022-07-05": 68
     }
   }
 ]
