@@ -43,17 +43,17 @@
     "url": "https://lunestudio.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lunestudio.com.ar.ico",
     "slug": "lunestudio",
-    "status": "up",
-    "uptime": "97.69%",
-    "uptimeDay": "24.36%",
-    "uptimeWeek": "20.57%",
-    "uptimeMonth": "14.98%",
-    "uptimeYear": "92.91%",
-    "time": 1492,
-    "timeDay": 870,
-    "timeWeek": 974,
-    "timeMonth": 1884,
-    "timeYear": 1334,
+    "status": "down",
+    "uptime": "97.73%",
+    "uptimeDay": "24.37%",
+    "uptimeWeek": "20.75%",
+    "uptimeMonth": "16.27%",
+    "uptimeYear": "93.02%",
+    "time": 1490,
+    "timeDay": 834,
+    "timeWeek": 970,
+    "timeMonth": 1880,
+    "timeYear": 1333,
     "dailyMinutesDown": {
       "2025-03-04": 697,
       "2025-03-03": 887,
@@ -82,8 +82,7 @@
       "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1226,
-      "2025-02-05": 1300,
-      "2025-02-04": 212
+      "2025-02-05": 946
     }
   },
   {
