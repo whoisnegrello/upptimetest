@@ -1,7 +1,7 @@
 url: https://lunestudio.com.ar
-status: up
-code: 200
-responseTime: 1851
-lastUpdated: 2025-03-10T09:00:43.060Z
+status: down
+code: 403
+responseTime: 125
+lastUpdated: 2025-03-10T09:44:38.415Z
 startTime: 2022-02-07T16:32:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>
