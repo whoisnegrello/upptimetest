@@ -43,16 +43,16 @@
     "url": "https://lunestudio.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/lunestudio.com.ar.ico",
     "slug": "lunestudio",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "67.79%",
-    "uptimeWeek": "47.94%",
-    "uptimeMonth": "74.73%",
-    "uptimeYear": "97.89%",
-    "time": 1205,
-    "timeDay": 914,
-    "timeWeek": 953,
-    "timeMonth": 963,
+    "uptimeDay": "69.28%",
+    "uptimeWeek": "48.92%",
+    "uptimeMonth": "74.84%",
+    "uptimeYear": "97.90%",
+    "time": 1204,
+    "timeDay": 889,
+    "timeWeek": 951,
+    "timeMonth": 961,
     "timeYear": 1122,
     "dailyMinutesDown": {
       "2025-04-01": 365,
@@ -66,7 +66,7 @@
       "2025-03-24": 1440,
       "2025-03-23": 1440,
       "2025-03-22": 1440,
-      "2025-03-21": 401
+      "2025-03-21": 351
     }
   },
   {
@@ -75,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunesnegro.com.ar.ico",
     "slug": "lunes-negro",
     "status": "down",
-    "uptime": "89.41%",
+    "uptime": "89.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
