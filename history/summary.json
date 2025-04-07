@@ -45,17 +45,17 @@
     "slug": "lunestudio",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "88.56%",
-    "uptimeWeek": "80.83%",
-    "uptimeMonth": "91.20%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "89.29%",
+    "uptimeWeek": "81.56%",
+    "uptimeMonth": "91.09%",
+    "uptimeYear": "99.26%",
     "time": 1193,
     "timeDay": 934,
-    "timeWeek": 941,
+    "timeWeek": 946,
     "timeMonth": 962,
     "timeYear": 1109,
     "dailyMinutesDown": {
-      "2025-04-06": 165,
+      "2025-04-06": 154,
       "2025-04-05": 102,
       "2025-04-04": 270,
       "2025-04-03": 237,
@@ -64,7 +64,7 @@
       "2025-03-31": 593,
       "2025-03-30": 632,
       "2025-03-29": 669,
-      "2025-03-28": 626
+      "2025-03-28": 684
     }
   },
   {
