@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 108,
-    "timeDay": 153,
-    "timeWeek": 103,
-    "timeMonth": 150,
-    "timeYear": 115,
+    "timeDay": 69,
+    "timeWeek": 102,
+    "timeMonth": 149,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2025-01-29": 19,
       "2024-05-01": 42
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 206,
-    "timeWeek": 240,
-    "timeMonth": 158,
-    "timeYear": 221,
+    "timeDay": 37,
+    "timeWeek": 216,
+    "timeMonth": 142,
+    "timeYear": 220,
     "dailyMinutesDown": {}
   },
   {
@@ -45,14 +45,14 @@
     "slug": "lunestudio",
     "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "95.08%",
-    "uptimeWeek": "53.19%",
+    "uptimeDay": "97.79%",
+    "uptimeWeek": "53.41%",
     "uptimeMonth": "81.78%",
     "uptimeYear": "98.48%",
     "time": 1191,
-    "timeDay": 1300,
-    "timeWeek": 1041,
-    "timeMonth": 998,
+    "timeDay": 1424,
+    "timeWeek": 1027,
+    "timeMonth": 1001,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-04-15": 32,
@@ -212,8 +212,7 @@
       "2024-06-01": 95,
       "2024-05-31": 151,
       "2024-05-06": 138,
-      "2024-05-03": 54,
-      "2024-04-16": 33
+      "2024-05-03": 54
     }
   }
 ]
