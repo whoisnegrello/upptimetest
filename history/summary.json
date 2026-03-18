@@ -25,9 +25,9 @@
     "url": "https://en.wikipedia.org",
     "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
     "slug": "wikipedia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 168,
     "timeMonth": 169,
     "timeYear": 178,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-18": 0
+    }
   },
   {
     "name": "Lunestudio",
@@ -44,18 +46,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunestudio.com.ar.ico",
     "slug": "lunestudio",
     "status": "down",
-    "uptime": "82.90%",
+    "uptime": "82.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "29.75%",
+    "uptimeYear": "29.65%",
     "time": 906,
     "timeDay": 243,
     "timeWeek": 204,
     "timeMonth": 217,
     "timeYear": 903,
     "dailyMinutesDown": {
-      "2026-03-18": 87,
+      "2026-03-18": 608,
       "2026-03-17": 1440,
       "2026-03-16": 1440,
       "2026-03-15": 1440,
