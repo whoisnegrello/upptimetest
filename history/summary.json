@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 130,
-    "timeDay": 108,
-    "timeWeek": 149,
+    "timeDay": 142,
+    "timeWeek": 143,
     "timeMonth": 115,
     "timeYear": 130,
     "dailyMinutesDown": {
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.99%",
     "time": 188,
-    "timeDay": 256,
-    "timeWeek": 224,
-    "timeMonth": 185,
-    "timeYear": 180,
+    "timeDay": 269,
+    "timeWeek": 241,
+    "timeMonth": 188,
+    "timeYear": 181,
     "dailyMinutesDown": {
       "2026-03-18": 60
     }
@@ -46,18 +46,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/lunestudio.com.ar.ico",
     "slug": "lunestudio",
     "status": "down",
-    "uptime": "82.29%",
+    "uptime": "82.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "4.67%",
-    "uptimeYear": "26.73%",
-    "time": 869,
-    "timeDay": 230,
-    "timeWeek": 212,
-    "timeMonth": 207,
-    "timeYear": 850,
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "26.45%",
+    "time": 856,
+    "timeDay": 267,
+    "timeWeek": 216,
+    "timeMonth": 209,
+    "timeYear": 843,
     "dailyMinutesDown": {
-      "2026-03-29": 107,
+      "2026-03-30": 110,
+      "2026-03-29": 1440,
       "2026-03-28": 1440,
       "2026-03-27": 1440,
       "2026-03-26": 1440,
@@ -345,8 +346,7 @@
       "2025-04-03": 237,
       "2025-04-02": 170,
       "2025-04-01": 393,
-      "2025-03-31": 593,
-      "2025-03-30": 435
+      "2025-03-31": 593
     }
   },
   {
